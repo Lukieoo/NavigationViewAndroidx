@@ -1,0 +1,18 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.NoActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+        <item name="actionBarSize">90dp</item>
+    </style>
+    <style name="ForniteStyle" parent="android:Widget.TextView">
+        <!-- Customize your theme here. -->
+        <item name="android:fontFamily">@font/fornitefont</item>
+        <item name="android:textSize">17sp</item>
+
+    </style>
+
+</resources>
